@@ -1,5 +1,5 @@
 # 💫 About Me:
-👨‍💻High school Junior web dev<br>💻now i only use HTML and CSS also lil bit of JavaScript and PhP, but i want to learn other type of programming languages <br>🧑Also a very nonchalant person ;]<br>📍Central Java, Indonesia 
+👨‍💻High school Junior web dev<br>💻now i only use HTML and CSS also lil bit of JavaScript and PhP, but i want to learn other type of programming languages <br>🧑Also a very nonchalant person ;]<br>📍Central Java, Indonesia<br>Social Media:TyosHere 
 
 
 # 💻 Tech Stack:
