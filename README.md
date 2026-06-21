@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi there, I'm Tyo! 👋 (aka TyosHere)<br>A design-driven developer crafting seamless digital experiences across the web, mobile apps, and browser ecosystems. Based in Central Java, Indonesia.<br><br>What I Do:<br>• Interface Design: Crafting intentional, high-fidelity UI/UX systems.<br>• Multi-Platform Dev: Bringing concepts to life via Web, Native Apps, and Chrome Extensions.
+Aldo Rahmadan Prase```Tyo``` // @TyosHere<br>Software Engineering Graduate & UI/UX Enthusiast based in Indonesia.<br><br>Bridging the gap between strict logic and polished user experience. I build thoughtful interfaces for:<br>Web · Apps · Extensions
 
 
 # 💻 Tech Stack:
