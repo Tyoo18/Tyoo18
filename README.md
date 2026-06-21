@@ -8,8 +8,6 @@ Hi there, I'm Tyo! 👋 (aka TyosHere)<br>A design-driven developer crafting sea
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Tyoo18&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Tyoo18&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ## 💰 You can help me by Donating
 [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/AldoRPrasetyo) 
